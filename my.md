@@ -10,7 +10,7 @@
  - 吴鑫/男/1992 
  - 2013年毕业/本科/台州学院/材料物理专业/自学C.PHP.JavaScript
  - 工作年限：4年
- - Github: http://github.com/Camaro_ZZ 
+ - Github: https://github.com/Camaro-zz 
  - 期望职位：PHP程序员
  - 期望薪资：月薪13k~15k，特别喜欢的公司可例外
  - 期望城市：杭州
